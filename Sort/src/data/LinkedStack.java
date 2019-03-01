@@ -10,6 +10,7 @@ public class LinkedStack {
 	
 	public LinkedStack() {
 		
+		
 		stack = new LinkedList<Employee>();
 		
 	}
